@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Content() {
-  return (
-    <div>Content</div>
-  )
+  return <div>This is main content ok ??</div>;
 }
 
-export default Content
+export default Content;
