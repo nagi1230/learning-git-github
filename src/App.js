@@ -1,12 +1,11 @@
 import React from "react";
 import "./App.css";
+import Header from "./pages/header/Header";
 
 function App() {
   return (
     <div>
-      This is my first program in which i am going to learn git and github ok
-      Autor : Dilpavittar pal singh
-      test: testing
+      <Header />
     </div>
   );
 }
